@@ -1,3 +1,4 @@
 ### dependency
+scikit-learn
 streamlit
 
