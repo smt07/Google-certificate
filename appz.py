@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 import altair as alt
-
+import sklearn
 file_url = 'https://raw.githubusercontent.com/PacktWorkshops/The-Data-Science-Workshop/master/Chapter10/dataset/churn.csv'
 
 df = pd.read_csv(file_url)
